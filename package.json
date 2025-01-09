@@ -1,0 +1,9 @@
+{
+      "name": "welcome-page",
+      "scripts": {
+            "dev": "vite"
+      },
+      "devDependencies": {
+            "vite": "^6.0.7"
+      }
+}
